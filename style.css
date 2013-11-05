@@ -1,0 +1,25 @@
+/*
+@link http://codex.wordpress.org/Child_Themes
+
+Theme Name:     'kieztoolbox' (naBasic Child)
+Theme URI:      http://www.na-media.com/
+Description:    Child theme for the NA-Basic theme
+Author:         NA-Media
+Author URI:     http://www.na-media.com/
+Template:       nabasic
+Version:        0.1
+*/
+
+@media all { }
+
+/* Large desktop */
+@media (min-width: 1200px) { }
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { }
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { }
+
+/* Landscape phones and down */
+@media (max-width: 480px) { }
